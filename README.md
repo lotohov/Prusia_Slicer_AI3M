@@ -1,1 +1,1 @@
-# Prusia_Slicer_AI3M
+# Prusia_Slicer_AI3M PETG
